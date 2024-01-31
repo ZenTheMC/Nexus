@@ -10,7 +10,7 @@ const Footer = () => {
             Science & Tech
           </h1>
           <p className="text-[14px] text-white opacity-60">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            This central hub of the future is a nexus that allows you to access any of the fantastical items of the singularity. If you would like to get into contact with us and help us develop more technology, we would love to speak with you. If you have any questions, we would also love to talk to you. For your convenience, here is our contact information. Feel free to reach out.
           </p>
           <p className="text-[14px] mt-[1.4rem] text-white opacity-80">
             +1 (718) 314 8147 - amaar5ali@gmail.com
@@ -19,21 +19,20 @@ const Footer = () => {
         <div className="lg:mx-auto">
           <h1 className="text-[20px] text-white mb-[1.5rem]">Information</h1>
           <p className="footer__link">About Us</p>
+          <p className="footer__link">Location</p>
           <p className="footer__link">Privacy Policy</p>
-          <p className="footer__link">Return Policy</p>
-          <p className="footer__link">Shipping Policy</p>
-          <p className="footer__link">Dropshipping</p>
+          <p className="footer__link">Portal Delivery Policy</p>
         </div>
         <div className="lg:mx-auto">
           <h1 className="text-[20px] text-white mb-[1.5rem]">Account</h1>
           <p className="footer__link">Dashboard</p>
-          <p className="footer__link">My Orders</p>
-          <p className="footer__link">Account Details</p>
-          <p className="footer__link">Track My Orders</p>
+          <p className="footer__link">Orders</p>
+          <p className="footer__link">Details</p>
+          <p className="footer__link">Track</p>
         </div>
         <div className="lg:mx-auto">
           <h1 className="text-[20px] text-white mb-[1.5rem]">Shop</h1>
-          <p className="footer__link">Affiliates</p>
+          <p className="footer__link">Recommended</p>
           <p className="footer__link">Best Sellers</p>
           <p className="footer__link">Latest Products</p>
           <p className="footer__link">On Sale</p>

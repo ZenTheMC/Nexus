@@ -34,7 +34,7 @@ const NewsCard = ({ image, title }: Props) => {
           </p>
         </div>
         <div className="text-white mb-[1rem]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          This is one of our recommended, life-changing, must-have items. It will absolutely transform your quality of life and give you a massive amount of satisfaction and advancement. Food to transcend hunger and mortality. Technology to transcend humanity and welcome your new super-self. A whole pocket universe for your own unlimited needs and desires, granting however much space you want, moving past the shackles of this plane, and painting your vision into another one.
         </div>
         <button className="before:ease bg-white text-[17px] relative h-10 w-36 overflow-hidden border border-black shadow-2xl before:absolute before:left-0 before:-ml-2 before:h-48 before:w-48 before:origin-top-right before:-translate-x-full before:translate-y-12 before:-rotate-90 before:bg-blue-900 before:transition-all before:duration-300 hover:text-white hover:shadow-black hover:before:-rotate-180">
           <span className="relative z-10">Read More</span>
