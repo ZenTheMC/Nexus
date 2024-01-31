@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="relative w-[100vw] h-[60vh] md:h-[87vh] bg">
       <div className="w-[90%] md:w-[80%] mx-auto h-[100%] flex flex-col items-start justify-center">
         <div data-aos="fade-right" className="text-white font-bold text-[25px] md:text-[30px] lg:text-[40px] uppercase">
-          Best Place To Get A Hold Of The Future
+          NEXUS - The Best Place To Get A Hold Of The Future
         </div>
         <p data-aos="fade-left" data-aos-delay="200" className="text-white text-[14px] md:text-[18px] w-[90%] lg:w-[55%] mt-[1rem] md:mt-[0.2rem] mb-[1rem] opacity-75">
           Welcome to the market of the future. We are a centralized hub known as Nexus. We promise to innovate, display, and deliver cutting edge technologies and products, all centralized in one place. The path towards your perfect future starts here! We have everything here at stellar prices, ranging from neat and useful gadgets to life-changing necessities in current society. Check in with us regularly, as we tend to innovate and commercialize the newest breakthroughs that you won't find elsewhere. Looking forward to your business!
