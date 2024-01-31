@@ -13,7 +13,7 @@ const BestSeller = () => {
         </button>
       </div>
       <div className="grid mt-[2rem] grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-y-8 w-[80%] mx-auto">
-        <div>
+        <div data-aos="fade-left" data-aos-anchor-placement="top-center">
           <ProductCard
             title="Immortality Apple"
             actualPrice="$99.99"
@@ -22,7 +22,7 @@ const BestSeller = () => {
             image="/images/apple.png"
           />
         </div>
-        <div>
+        <div data-aos="fade-left" data-aos-delay="250" data-aos-anchor-placement="top-center">
           <ProductCard
             title="Genetic Engineering Drink"
             actualPrice="$49.99"
@@ -31,7 +31,7 @@ const BestSeller = () => {
             image="/images/drink.png"
           />
         </div>
-        <div>
+        <div data-aos="fade-left" data-aos-delay="500" data-aos-anchor-placement="top-center">
           <ProductCard
             title="Quanta Mystic Orb"
             actualPrice="$499.99"
@@ -40,7 +40,7 @@ const BestSeller = () => {
             image="/images/orb.png"
           />
         </div>
-        <div>
+        <div data-aos="fade-left" data-aos-delay="750" data-aos-anchor-placement="top-center">
           <ProductCard
             title="Pocket Dimension"
             actualPrice="$9999.99"
@@ -49,7 +49,7 @@ const BestSeller = () => {
             image="/images/dimension.png"
           />
         </div>
-        <div>
+        <div data-aos="fade-left" data-aos-delay="1000" data-aos-anchor-placement="top-center">
           <ProductCard
             title="Endless Omni-Taste Pizza"
             actualPrice="$749.99"

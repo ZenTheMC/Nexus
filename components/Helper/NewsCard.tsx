@@ -10,7 +10,7 @@ interface Props {
 const NewsCard = ({ image, title }: Props) => {
   return (
     <>
-      <div className="col-span-2">
+      <div data-aos="zoom-in" data-aos-anchor-placement="top-center" className="col-span-2">
         <Image
           className="w-[100%] h-[100%]"
           src={`${image}`}
