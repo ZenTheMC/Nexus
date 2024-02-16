@@ -11,7 +11,7 @@ SOLUTION: I created a store of the future with items that would give a glimpse i
 
 [Nexus](https://nexus-zen.vercel.app/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1d-aw_wk_dwAOMX5LOXGK18lplYzup-DY) ![App Screenshot](https://drive.google.com/uc?export=view&id=16G7fjqeq_5n26VF1VC1WGH5UchX2KfKZ)
+![App Logo](https://drive.google.com/uc?export=view&id=1d-aw_wk_dwAOMX5LOXGK18lplYzup-DY) <img src="Zen Training vid.gif" alt="Zen Training demo">
 
 ## How It's Made:
 
